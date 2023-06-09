@@ -1,3 +1,1 @@
 # otus
-
-test
